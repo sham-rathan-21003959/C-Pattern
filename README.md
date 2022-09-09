@@ -3,6 +3,7 @@
 To write a C# program for a pascal's triangle.
 ## Equipment Required:
 1.Hardware-PC
+
 2.Visual Studio Code 2022.
 ## Algorithm:
 ### Step 1:
